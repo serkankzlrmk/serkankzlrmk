@@ -1,13 +1,9 @@
 ### Hi, I'm Serkan 👋
 
-**Senior Data Scientist · AI / ML Engineer** in Ankara, Türkiye.
+**Senior Data Scientist** — Ankara, Türkiye
 
-I build production LLM & ML systems for humanitarian operations at _Türk Kızılay_.
+Senior Data Scientist with 3+ years shipping production ML systems and LLM-powered products. Built **Sightline**, a live multi-agent LLM intelligence platform (LangGraph + RAG + ChromaDB) serving large-scale humanitarian operations. → [sightlinehumanitarian.com](https://sightlinehumanitarian.com)
 
-🏆 **Sightline** — live multi-agent LLM platform (LangGraph + RAG) automating SITREPs, donor proposals & weekly bulletins across 30+ countries. → [sightlinehumanitarian.com](https://sightlinehumanitarian.com)
-
----
-
-**Stack:** Python · PyTorch · LangGraph · RAG/ChromaDB · FastAPI · Docker · GCP · MLflow
-
-**Find me:** [LinkedIn](https://www.linkedin.com/in/serkankizilirmak/) · [Website](https://serkankizilirmak.com/) · serkankizilirmaak@gmail.com
+- 🌐 [serkankizilirmak.com](https://serkankizilirmak.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/serkankizilirmak/)
+- ✉️ serkankizilirmaak@gmail.com
